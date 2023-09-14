@@ -1,14 +1,20 @@
 ﻿Este é um repositório com estudos de fundamentos de JavaScript, focado no Backend utilizando o NodeJs.
 
-Pastas: 
+Pastas:
 
--> Tipos, variáveis e funções{
-  - Quais são os tipos com que o JS trabalha?
-  - Quais são os tipos de variáveis?
-  - Como construir funções 
-}
+-> Tipos, variáveis e funções
 
--> Arrays{
-  - Os diversos métodos de lógica nas arrays
-  - funções contendo arrays e métodos
-}
+- Quais são os tipos com que o JS trabalha?
+- Quais são os tipos de variáveis?
+- Como construir funções.
+
+-> Arrays
+
+- Os diversos métodos de lógica nas arrays;
+- funções contendo arrays e métodos.
+
+-> Objetos
+
+- Estrutura de um objeto;
+- Manipulação de objetos;
+- Objetos e arrays.
